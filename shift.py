@@ -1,3 +1,6 @@
+#Zach Gillette
+#1/20/22
+
 from datetime import datetime
 import time
 import os 
@@ -5,7 +8,7 @@ import os
 os.system("clear") 
 
 #user input
-print("Welcome to Sh%" + "ft. \nDeveloped by Zach Gillette\n1/2/22\n\nThis application will tell you how far\nyou are through a shift by showing an\nupdating percentage.\nEnjoy!\n")
+print("Welcome to Sh%" + "ft. \nDeveloped by Zach Gillette\n1/20/22\n\nThis application will tell you how far\nyou are through a shift by showing an\nupdating percentage.\nEnjoy!\n")
 start = input("Shift start: ")
 end = input("Shift end: ")
 advanced = input("Turn on advanced data? (y/n): ")
